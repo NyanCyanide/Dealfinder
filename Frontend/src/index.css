@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Sorts+Mill+Goudy:ital@1&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: rgb(255 204 204 / var(--tw-bg-opacity));
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #fff;
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #a7a5a5;
+}
