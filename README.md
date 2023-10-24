@@ -22,6 +22,7 @@ DealFinder is a web application built using React, Express, and Tailwind CSS. Th
 
 ## Screenshots
 #### Desktop View Image
+
 ![desktop image](./Images/Desktop.png)
 
 
